@@ -26,3 +26,7 @@ For that you need an account at [GCP](https://cloud.google.com/).
 This code needs an account at [Pushover Notifications](https://pushover.net/),
 
 to send the notifications to your clients.
+
+## Related Article
+
+To get more information regarding the purpose of this code, please see my article on [Medium](https://dennis-riemenschneider.medium.com/how-to-encrypt-your-headless-linux-server-2de9c7f0f972)
